@@ -1,0 +1,96 @@
+.recomendation {
+    display: flex;
+    justify-content: center;
+    gap: 78px;
+    margin: 47px 70px 0 70px;
+}
+
+.card {
+    background-color: #F2EFE9;
+    width: 328px;
+    height: 366px;
+    border-radius: 10px;
+    margin: 0;
+}
+.text-title {
+    font-size: 30px;
+    padding: 18px 0 10px 22px;
+    margin: 0;
+    color: #3E3A39;
+}
+
+.text {
+    font-size: 18px;
+    padding: 0 0 0 22px;
+    margin: 0;
+    color: #3E3A39;
+}
+
+.recomendation-text {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-size: 40px;
+}
+
+.postrecomendation-text {
+    font-size: 22px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.postrecomendation-text-p {
+    margin: 0;
+    padding: 62px 129px 0 128px;
+    color: #3E3A39;
+}
+img {
+    width: 328px;
+    height: 235px;
+}
+
+.recomendation-text-p {
+    padding: 152px 320px 0 328px;
+    margin: 0;
+    color: #3E3A39;
+    white-space: nowrap;
+}
+
+.avoid {
+    display: flex;
+    justify-content: center;
+    width: 508px;
+    height: 75px;
+    background-color: #E5C5B5;
+    border-radius: 10px;
+    margin: 33px 0 0 70px;
+    align-items: center;
+}
+
+.avoid-p {
+    font-size: 22px;
+    padding: 22.5px 0 22.5px;
+    margin: 0;
+}
+
+.postrecomendation-text2 {
+    font-size: 22px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.postrecomendation-text-p2{
+    margin: 0;
+    padding: 62px 421px 0 428px;
+    color: #3E3A39;
+}
+
+.postrecomendation {
+    display: flex;
+    justify-content: center;
+    gap: 78px;
+    margin: 50px 70px 0 70px;
+    color: #3E3A39;
+}
