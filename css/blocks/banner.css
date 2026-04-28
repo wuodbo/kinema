@@ -1,5 +1,8 @@
 .banner {
     position: relative;
+    font-family: "Nunito", "Arial", sans-serif;
+    font-size: 16px;
+    color: #3E3A39;
 }
 
 .banner__title {
@@ -8,7 +11,7 @@
     color: #3E3A39;
     font-size: 160px;
     letter-spacing: 0.23em;
-    margin: 0;
+    margin: 0 0 458px;
 }
 
 .banner__img {
@@ -16,4 +19,54 @@
     top: 112px;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.banner__left-top {
+    position: absolute;
+    top: 223px;
+    left: 290px;
+
+}
+
+.banner__top-left {
+    position: absolute;
+    top: 244px;
+    left: 290px;
+}
+
+.banner__left-bottom {
+    position: absolute;
+    top: 352px;
+    left: 80px;
+
+}
+
+.banner__bottom-left {
+    position: absolute;
+    top: 374px;
+    left: 80px;
+}
+
+.banner__right-top {
+    position: absolute;
+    top: 185px;
+    right: 300px;
+}
+
+.banner__top-right {
+    position: absolute;
+    top: 205px;
+    right: 300px;
+}
+
+.banner__right-bottom {
+    position: absolute;
+    top: 285px;
+    right: 155px;
+}
+
+.banner__bottom-right {
+    position: absolute;
+    top: 307px;
+    right: 150px;
 }

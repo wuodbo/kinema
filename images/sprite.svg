@@ -8,7 +8,7 @@
     <symbol id="line-left-bottom" viewBox="0 0 186 33" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M0 0.5L164.5 0.500008L185.5 32" stroke="black" stroke-dasharray="2 2"/>
     </symbol>
-    <symbol id="lone-left-top" viewBox="0 0 260 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="line-left-top" viewBox="0 0 260 33" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M0 0.5L238.002 0.500001L259.002 32.0001" stroke="black" stroke-dasharray="2 2"/>
     </symbol>
     <symbol id="line-right-bottom" viewBox="0 0 214 24" fill="none" xmlns="http://www.w3.org/2000/svg">

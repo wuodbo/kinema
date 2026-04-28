@@ -1,0 +1,54 @@
+.programms {
+    padding-top: 137px;
+}
+
+.programms__note {
+    font-family: "Nunito", "Arial", sans-serif;
+    color: #8C837A;
+    margin-bottom: 72px;
+    display: block;
+    text-align: center;
+}
+
+.programms__wrapper {
+    display: flex;
+    gap: 78px;
+    justify-content: center;
+}
+
+.programms-card {
+    background-color: #F2EFE9;
+    padding: 14px;
+    width: 328px;
+    border-radius: 10px;
+    position: relative;
+    font-family: "Nunito", "Arial", sans-serif;
+    color: #3E3A39;
+}
+
+
+.programms-card__days {
+    position: absolute;
+    font-size: 15px;
+    top: 19px;
+    left: 24px;
+}
+
+.programms-card__title {
+    font-size: 30px;
+    font-family: "Raleway", "Arial", sans-serif;
+    position: absolute;
+    top: 83px;
+    right: 28px;
+    margin: 0;
+}
+
+.programms-card__text {
+    font-size: 26px;
+    text-align: right;
+    position: absolute;
+    width: 230px;
+    top: 206px;
+    right: 28px;
+    font-weight: 400;
+}

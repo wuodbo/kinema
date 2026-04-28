@@ -1,0 +1,23 @@
+.btn {
+    font-family: "Nunito", "Arial", sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 19px 30px;
+    background-color: #B8C6B0;
+    border: none;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+}
+
+.btn--card {
+    position: absolute;
+    bottom: 30px;
+    right: 28px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.btn--video {
+    position: unset;
+}
